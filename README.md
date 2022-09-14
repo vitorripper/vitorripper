@@ -1,7 +1,7 @@
 ## Olá! Me chamo Vitor Ripper
 
 - 🔭 Hoje faço faculdade de Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando: Java, HTML5, CSS3, JavaScript, Git
+- 🌱 Estudando: Java, HTML5, CSS3, JavaScript, Python, C
 
 <div align="center">
   <a href="https://github.com/vitorripper">
@@ -16,6 +16,12 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align ="center" alt="Vitor-git" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align ="center" alt="Vitor-python" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align ="center" alt="Vitor-c" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align ="center" alt="Vitor-c" height="30" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
    
    ##
