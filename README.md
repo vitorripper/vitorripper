@@ -1,6 +1,6 @@
 ## Olá! Me chamo Vitor Ripper
 
-- 🔭 Hoje faço faculdade de Analise e Desenvolvimento de Sistemas
+- 🔭 Faço Faculdade de Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando: Java, HTML5, CSS3, JavaScript, Python, C
 
 <div align="center">
